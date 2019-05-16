@@ -4,9 +4,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>lab.scm</groupId>
-    <artifactId>hello</artifactId>
+    <artifactId>hellou</artifactId>
     <packaging>jar</packaging>
-    <version>1.0</version>
+    <version>1.3</version>
 
     <properties>
         <maven.compiler.source>1.6</maven.compiler.source>
